@@ -21,6 +21,7 @@ rashee
 - Elie Inahon
 - [Abdulrahman Idrees](https://github.com/akhaled01)
 - [Argenis De La Rosa](https://github.com/theonlyhennygod)
+- rivki k
 - [Irene](https://github.com/IreneAragona)
 - [Kevin Tuei](https://github.com/kevshakes)
 - [Vivek Singh] (https://github.com/viveksingh97)
